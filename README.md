@@ -1,8 +1,8 @@
-# Intel oneAPI Innvoa-a-Thon
+# Intel oneAPI ML Hackathon
 ![oneAPI banner](https://www.startpage.com/av/proxy-image?piurl=https%3A%2F%2Fwww.intel.com%2Fcontent%2Fdam%2Fdevelop%2Fpublic%2Fus%2Fen%2Fimages%2Fthumbnails%2Ftool-thumbnail-beta-oneapi-logo.jpg&sp=1679186421T44fcf3adddb8bde9b9ed6f076d2b16952f30b2ecd118237d162528dd08ba9ddf)
 * oneAPI is an open, cross-architecture programming model that frees developers to use a single code base across multiple architectures. The result is accelerated compute without vendor lock-in.
 * The objective of this hackathon is to build solutions with oneAPI for compelling problems identified. Developers can choose to work in the themes of the ML, Computer Vision, and Open Innovation theme. The developers are expected to build the solutions using the Intel® oneAPI AI Analytics Toolkits.
-* The project submission has to be Open-source in nature, it has to use open-source technologies(Scikit, Intel oneAPI) otherwise it won't be accepted in the project(As it needs to tested and evaluated during judging).
+* The project submission must be open-source and use open-source technologies such as Scikit and Intel oneAPI; otherwise, it will not be accepted. This requirement is necessary as the project needs to be tested and evaluated during judging.
 * *Shashwat's Query*: Regarding projects in the medical image processing field with significant problem statements, is it necessary to develop specific models for particular diseases, or is it possible to create multiple models for multiple diseases or a single disease? I would appreciate it if you could provide guidance on what approach to take.
 *Answer by Mentor(Kazi Sir)*: There are no restrictions on the types of diseases that can be targeted in the development of medical image processing projects. Therefore, the choice to focus on a specific disease or a category of diseases is entirely up to the you guys. So, single or multiple diseases can also be addressed. I hope this answer satisfies your query.
 ## Problem Statements
@@ -40,9 +40,13 @@ Blog Reference:https://medium.com/@ripanroy111/face-mask-detection-using-svm-int
 * Youtube Video / Medium blog describing the project.
 * Images / Snapshot and videos to be included.
 
-  # Checklist
-  * [ ] 
-  * [ ] 
-  * [ ] 
-  * [ ] 
-  * [ ] 
+# Checklist
+- [x] Learning about oneAPI resources
+- [ ] Learning about oneAPI DevCloud
+- [ ] Satisfactory work done on AI/ML portion of Problem Statement 
+- [ ] FrontEnd Development
+- [ ] Integrating and forming a fully-functional AI/ML solution Application
+- [ ] Deploying the application on oneAPI DevCloud
+- [ ] Prepare proper Documentation with clear and concise instructions to run the application
+- [ ] Preparing a Youtube Video/Medium blog describing the project.
+- [ ] Evaluate the project and then Submission
